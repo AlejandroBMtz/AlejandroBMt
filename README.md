@@ -13,3 +13,4 @@ Optimización de algoritmos | Seguridad informática | Desarrollo de aplicacione
 📫 **Contacto**  
 - 💼 LinkedIn: https://linkedin.com/in/alejandroBMtz
 - 🐙 GitHub: https://github.com/AlejandroBMtz
+- 📫 Discord: alexthegrey66
